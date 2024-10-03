@@ -1,0 +1,16 @@
+TOPIC,ACCOUNTING METRIC,CODE,RESPONSE
+"EmissionsReductionServices& FuelsManagement","Total fuel consumed, percentage renewable, percentage used in:(1) on-road equipment and vehicles and (2) off-road equipment",EM-SV-110a.1,Table 5A
+,"Discussion of strategy or plans to address air emissions-relatedrisks, opportunities, and impacts",EM-SV-110a.2,"EnvironmentalStewardship"
+,"Percentage of engines in service that meet Tier 4 compliance fornon-road diesel engine emissions",EM-SV-110a.3,Not Applicable; Table 5A
+"WaterManagementServices","(1) Total volume of fresh water handled in operations, (2)percentage recycled",EM-SV-140a.1,Table 7
+,"Discussion of strategy or plans to address water consumption anddisposal-related risks, opportunities, and impacts",EM-SV-140a.2,"EnvironmentalStewardship"
+"ChemicalsManagement","Volume of hydraulic fracturing fluid used, percentage hazardous",EM-SV-150a.1,"Not applicable. Valaris’customers managehydraulic fracturing fluid."
+,"Discussion of strategy or plans to address chemical-related risks,opportunities, and impacts",EM-SV-150a.2,"EnvironmentalStewardship"
+"EcologicalImpactManagement",Average disturbed acreage per (1) oil and (2) gas well site,EM-SV-160a.1,"Not applicable, offshoreoperations."
+,"Discussion of strategy or plan to address risks and opportunitiesrelated to ecological impacts from core activities",EM-SV-160a.2,"Environmental Stewardship,TCFD Framework"
+"WorkforceHealth &Safety","(1) Total recordable incident rate (TRIR), (2) fatality rate, (3) nearmiss frequency rate (NMFR), (4) total vehicle incident rate (TVIR),and (5) average hours of health, safety, and emergency responsetraining for (a) full-time employees, (b) contract employees, and(c) short-service employees",EM-SV-320a.1,Table 2
+,"Description of management systems used to integrate a culture ofsafety throughout the value chain and project lifecycle",EM-SV-320a.2,Social Aspects of Valaris
+"BusinessEthics &PaymentsTransparency","Amount of net revenue in countries that have the 20 lowest rankingsin Transparency International’s Corruption Perception Index",EM-SV-510a.1,Table 11
+,"Description of the management system for prevention of corruptionand bribery throughout the value chain",EM-SV-510a.2,Governance
+"Managementof the Legal& RegulatoryEnvironment","Discussion of corporate positions related to governmentregulations and/or policy proposals that address environmentaland social factors affecting the industry",EM-SV-530a.1,"Governance; AnnualReport on Form 10-K forthe year ending Dec. 31,2022."
+"CriticalIncidentRiskManagement","Description of management systems used to identify and mitigatecatastrophic and tail-end risks",EM-SV-540a.1,Governance

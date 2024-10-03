@@ -1,0 +1,19 @@
+Unnamed: 0,2019,Unnamed: 1,Unnamed: 2,Unnamed: 3
+"TABLE 6: SCOPE 3 INDIRECT GHG EMISSIONS1,4 (mt CO2e)",,,,
+,(Base Year),,,
+,,2020,2021,2022
+Total Scope 3 Emissions,"51,627","19,331","634,882","904,399"
+Category 1: Purchased Goods & Services,No Data,No Data,"442,344","575,6645"
+Category 2: Purchased Services,No Data,No Data,"49,163","171,7095"
+,"13,713","4,754","6,078","12,486"
+"Category 4: Upstream Transport and distribution (Total, Air + Ocean)","(13,033 +","(4,212 +","(4,679 +","(11,720 +"
+,680),542),"1,399)",766)
+Category 5: Waste from operations,No Data,No Data,"1,268","1,773"
+Category 6: Business travel,"37,914","14,577","9,751","15,671"
+Category 7: Employee commuting,No Data,No Data,"1,020","6,686"
+Category 9: Downstream transportation & distribution,No Data,No Data,"14,382","4,180"
+Category 12: End-of-life treatment of sold products,No Data,No Data,"1,5643",409
+Category 13: Downstream leased assets2,No Data,"77,636","75,208","82,185"
+Category 15: Investments2,No Data,"37,498","34,104","33,636"
+Scope 3 Intensity Ratio,,,,
+Operational Activity (Scope 3 mt CO2e / Operating Day),NA,NA,66.7,85.4
